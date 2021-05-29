@@ -2,7 +2,7 @@
 
 nrf24無線通訊模組測試
 
-<img src = "https://github.com/MindBreaker3310/Arduino-radio-connection-nrf24/blob/main/rf_demo.gif" width = "auto" height = "600px">
+<img src = "https://github.com/MindBreaker3310/Arduino-radio-connection-nrf24/blob/main/rf_demo.gif" width = "auto" height = "400px">
 
 
 ## 🌳環境

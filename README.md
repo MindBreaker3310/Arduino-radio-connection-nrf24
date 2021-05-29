@@ -9,7 +9,6 @@ nrf24無線通訊模組測試
 
 - **Arduino nano**：V3.0 ATMEGA328P
 - **RF24 library**：Version 1.1.7
-- **YOLO**：圖形識別模型
 
 
 ## 👀參考文獻
